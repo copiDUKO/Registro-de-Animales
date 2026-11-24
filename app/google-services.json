@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151484366831",
+    "project_id": "registro-de-mascotas-ed86b",
+    "storage_bucket": "registro-de-mascotas-ed86b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151484366831:android:8415ea5d99a6a37520401a",
+        "android_client_info": {
+          "package_name": "com.example.registromascotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ7MxZVo5IsNnvfqbueET9fqiVFZT2pnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
